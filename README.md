@@ -1,1 +1,1 @@
-# Admin-Panel-Master-Theme-Collection
+# Admin Panel Master Theme Collection
