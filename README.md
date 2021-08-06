@@ -7,8 +7,6 @@
 
 **You can review on [RuangAdmin - Demo](https://indrijunanda.github.io/RuangAdmin/)**
 
-!["RuangAdmin Screenshot"]
-
 ## Contribution 
 
 Here is how : 
